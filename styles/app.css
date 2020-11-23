@@ -1,0 +1,19 @@
+/*--------------------------------------*/
+/* Overwriting boostrap defaults header */
+/*--------------------------------------*/
+.navbar-brand{
+    font-size: 1em;
+    font-family: 'Big Shoulders Inline Display', cursive;
+}
+
+.navbar{
+    color: rgb(77, 136, 102)
+}
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/*--------------------------------------*/
+/* Customizing some font awesome icons  */
+/*--------------------------------------*/
